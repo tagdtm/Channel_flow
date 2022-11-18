@@ -35,11 +35,13 @@ z|Periodic
 ## The Result
 Currently, the result shows velocity, pressure and Q criterion.
 The gnuplot script provides these graphs.
-![u_mean](\picture\u_mean.png)
-![u_rms](\picture\u_rms.png)
+
+<img src="/picture/u_mean.jpg" alt="u_mean" width="350" style="display: block; margin: 0 auto"/>
+<img src="/picture/u_rms.jpg" alt="u_rms" width="350" style="display: block; margin: 0 auto"/>
 
 By using additional post-pro software such as paraview supports some visualisation shown below.
-![Q criterion visualisation](\picture\qq1000_over.png)
+
+<img src="/picture/qq1000_over.png" alt="u_rms" width="350" style="display: block; margin: 0 auto"/>
 
 ## Future plan
 The code will be parallelised at some point.
