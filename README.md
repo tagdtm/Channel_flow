@@ -1,4 +1,4 @@
-# Channel_flow
+# Channel flow DNS
 
 ## Overview
 This code is developed to understand DNS channel flow code with Fortran.
